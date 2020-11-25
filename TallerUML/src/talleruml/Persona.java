@@ -6,6 +6,7 @@
 package talleruml;
 
 import java.util.Date;
+import java.util.TreeSet;
 
 /**
  *
@@ -20,7 +21,7 @@ class Persona {
     protected String direccion;
     protected Date fechaNac;
     
-    protected Administrador admin; 
+    protected Administrador administrador;
     
     public boolean login(){
         return true;

@@ -1,10 +1,11 @@
 package talleruml;
 
+import java.util.TreeSet;
+
 public class AreaMedica {
     protected String especialidad;
     protected float costo;
-    protected Doctor doctor;
-    
+    protected TreeSet<Doctor> doctores;
     public AreaMedica(){
     }
 }
