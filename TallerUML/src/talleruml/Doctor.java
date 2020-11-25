@@ -8,9 +8,9 @@ public class Doctor extends Persona{
     protected Secretaria secretaria;
     protected TreeSet<Receta> recetas;
     protected TreeSet<Cita> citasPendientes;
-    protected boolean desocupado;
-    
+    protected boolean desocupado; 
     protected AreaMedica area;
+    
     public void recetar(){}
     
     public void agregarPlanNut(){}
@@ -18,8 +18,5 @@ public class Doctor extends Persona{
     public void imprimirReceta(){}
     
     public void registrarSecretaria(){}
-    
-    public boolean atenderPaciente(){
-        if(g
-    
+
 }

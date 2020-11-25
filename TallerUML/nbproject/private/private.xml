@@ -3,22 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Cita.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/AreaMedica.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/PlanNutricional.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/PagoPayPal.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Persona.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Receta.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Paciente.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Administrador.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/PagoTarjeta.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/TallerUML.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/HistoriaClinica.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/PagoEfectivo.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Secretaria.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Doctor.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Pago.java</file>
-            <file>file:/C:/Users/Administrador/OneDrive/LIBROS/Diseño%20de%20software/Talleres/Taller-UML/TallerUML/src/talleruml/Medicamento.java</file>
+            <file>file:/C:/Users/Ma.%20Cecilia/Desktop/Taller-UML/TallerUML/src/talleruml/Paciente.java</file>
+            <file>file:/C:/Users/Ma.%20Cecilia/Desktop/Taller-UML/TallerUML/src/talleruml/Doctor.java</file>
         </group>
     </open-files>
 </project-private>

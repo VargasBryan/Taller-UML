@@ -14,6 +14,12 @@ public class Paciente extends Persona{
     }
     
     public boolean solicitarCita(){
-        return true;
+        TreeSet<Cita> buscarCita = cita.doctor.citasPendientes;
+        boolean condicion = true;
+        for(Cita c: buscarCita){
+            if(c.fecha.equals(cita.fecha))
+                condicion = false;
+        }           
+        return condicion;
     }
 }
